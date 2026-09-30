@@ -270,7 +270,7 @@ No artificial percentages. Progress is represented as a learning journey rather 
 
 <a href="https://github.com/anilmahatodmc">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anilmahatodmc&theme=tokyonight"
     alt="GitHub profile summary for Anil Mahato"
     width="90%"
   />
@@ -280,14 +280,14 @@ No artificial percentages. Progress is represented as a learning journey rather 
 
 <a href="https://github.com/anilmahatodmc">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=anilmahatodmc&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"
     alt="GitHub statistics for Anil Mahato"
     width="48%"
   />
 </a>
 <a href="https://github.com/anilmahatodmc">
   <img
-    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=anilmahatodmc&theme=tokyonight&hide_border=true"
     alt="GitHub contribution streak for Anil Mahato"
     width="48%"
   />
