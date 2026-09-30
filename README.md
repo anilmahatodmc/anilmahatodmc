@@ -14,10 +14,10 @@ I combine **creative media production** with growing **computer science and tech
   <img src="https://img.shields.io/badge/Portfolio-YOUR_PORTFOLIO_URL-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio placeholder" />
 </a>
 <a href="https://github.com/anilmahatodmc">
-  <img src="https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile placeholder" />
+  <img src="https://img.shields.io/badge/GitHub-anilmahatodmc-181717?style=for-the-badge&logo=github&logoColor=white" alt="Anil Mahato" />
 </a>
 <a href="https://www.linkedin.com/in/anilmahato06">
-  <img src="https://img.shields.io/badge/LinkedIn-YOUR_LINKEDIN_URL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn placeholder" />
+  <img src="https://img.shields.io/badge/LinkedIn-anilmahatodmc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Anil Mahato" />
 </a>
 <a href="mailto:anilmahatodmc@gmail.com">
   <img src="https://img.shields.io/badge/Email-YOUR_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email placeholder" />
