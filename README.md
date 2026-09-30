@@ -222,7 +222,7 @@ A dedicated space for selected video editing work.
 A dedicated space for selected graphic design work.
 
 **Link:**  
-<a href="https://github.com/mithilaseries/mithila-series-graphic-design">🎨 Graphic Design Portfolio</a>
+https://www.youtube.com/watch?v=wXji4B0-NHA
 </td>
 <td width="33%" valign="top">
 
