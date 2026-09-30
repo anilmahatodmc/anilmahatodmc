@@ -190,7 +190,7 @@ Worked in a computer operations role supporting **digital and office-based workf
 ### 🎓 Bachelor of Science in Computer Science and Information Technology
 
 **Rajarshi Janak University**  
-`2024 – Present`
+`2023 – Present`
 
 ### 💻 Diploma in Computer Engineering (TVET)
 
@@ -232,7 +232,7 @@ A dedicated space for selected graphic design work.
 A place to showcase programming practice and repositories.
 
 **Repositories:**  
-https://github.com/YOUR_GITHUB_USERNAME?tab=repositories
+https://github.com/anilmahatodmc
 
 </td>
 </tr>
@@ -264,11 +264,11 @@ No artificial percentages. Progress is represented as a learning journey rather 
 
 ## 📊 GitHub Analytics
 
-> Replace `YOUR_GITHUB_USERNAME` with the actual GitHub username before publishing.
+> Replace `anilmahatodmc` with the actual GitHub username before publishing.
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/anilmahatodmc">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight"
     alt="GitHub profile summary for Anil Mahato"
@@ -278,14 +278,14 @@ No artificial percentages. Progress is represented as a learning journey rather 
 
 <br><br>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/anilmahatodmc">
   <img
     src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"
     alt="GitHub statistics for Anil Mahato"
     width="48%"
   />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/anilmahatodmc">
   <img
     src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
     alt="GitHub contribution streak for Anil Mahato"
@@ -313,11 +313,11 @@ No artificial percentages. Progress is represented as a learning journey rather 
 ---
 
 ## 🌐 Languages
-
-<img src="https://img.shields.io/badge/Maithili-111827?style=for-the-badge" alt="Maithili" />
-<img src="https://img.shields.io/badge/Nepali-111827?style=for-the-badge" alt="Nepali" />
-<img src="https://img.shields.io/badge/Hindi-111827?style=for-the-badge" alt="Hindi" />
 <img src="https://img.shields.io/badge/English-111827?style=for-the-badge" alt="English" />
+<img src="https://img.shields.io/badge/Nepali-111827?style=for-the-badge" alt="Nepali" />
+<img src="https://img.shields.io/badge/Maithili-111827?style=for-the-badge" alt="Maithili" />
+<img src="https://img.shields.io/badge/Hindi-111827?style=for-the-badge" alt="Hindi" />
+
 
 ---
 
@@ -383,7 +383,7 @@ I'm interested in connecting with **creators, developers, organizations, and tea
 ### Thanks for visiting my profile! 👋
 
 <img
-  src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&label=Profile%20Views"
+  src="https://komarev.com/ghpvc/?username=anilmahatodmc&style=flat-square&label=Profile%20Views"
   alt="GitHub profile views for Anil Mahato"
 />
 
