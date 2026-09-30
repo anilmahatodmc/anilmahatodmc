@@ -110,22 +110,7 @@ const anilMahato = {
 ## 🎯 What I Do
 
 <table>
-<tr>
-<td width="50%" valign="top">
 
-### 🎬 Video Editing
-
-Creating and refining visual content with a focus on clear storytelling, pacing, and presentation.
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 Graphic Design
-
-Developing visual compositions with attention to design, consistency, and communication.
-
-</td>
-</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -142,6 +127,24 @@ Building foundational knowledge through C, C++, HTML, data structures, and web d
 
 </td>
 </tr>
+  
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 Video Editing
+
+Creating and refining visual content with a focus on clear storytelling, pacing, and presentation.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Graphic Design
+
+Developing visual compositions with attention to design, consistency, and communication.
+
+</td>
+</tr>
+
 </table>
 
 ---
