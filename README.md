@@ -364,7 +364,7 @@ I'm interested in connecting with **creators, developers, organizations, and tea
 <div align="center">
 
 <a href="mailto:anilmahatodmc@gmail.com">
-  <img src="https://img.shields.io/badge/📧%20Email-YOUR_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email placeholder" />
+  <img src="https://img.shields.io/badge/📧%20Email-anilmahatodmc@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email placeholder" />
 </a>
 <a href="https://www.linkedin.com/in/anilmahato06">
   <img src="https://img.shields.io/badge/💼%20LinkedIn-Anil Mahato-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn placeholder" />
