@@ -222,7 +222,8 @@ A dedicated space for selected video editing work.
 A dedicated space for selected graphic design work.
 
 **Link:**  
-https://www.youtube.com/watch?v=wXji4B0-NHA
+<a href="https://www.youtube.com/watch?v=wXji4B0-NHA">🎨 Graphic Design Portfolio</a>
+
 </td>
 <td width="33%" valign="top">
 
