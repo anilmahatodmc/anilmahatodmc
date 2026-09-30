@@ -367,13 +367,13 @@ I'm interested in connecting with **creators, developers, organizations, and tea
   <img src="https://img.shields.io/badge/📧%20Email-YOUR_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email placeholder" />
 </a>
 <a href="https://www.linkedin.com/in/anilmahato06">
-  <img src="https://img.shields.io/badge/💼%20LinkedIn-YOUR_LINKEDIN_URL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn placeholder" />
+  <img src="https://img.shields.io/badge/💼%20LinkedIn-Anil Mahato-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn placeholder" />
 </a>
 <a href="https://anil-mahato.com.np">
-  <img src="https://img.shields.io/badge/🎬%20Portfolio-YOUR_PORTFOLIO_URL-6E56CF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio placeholder" />
+  <img src="https://img.shields.io/badge/🎬%20Portfolio-AnilMahato.com.np-6E56CF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio placeholder" />
 </a>
 <a href="https://github.com/anilmahatodmc">
-  <img src="https://img.shields.io/badge/🐙%20GitHub-YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile placeholder" />
+  <img src="https://img.shields.io/badge/🐙%20GitHub-Anil Mahato-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile placeholder" />
 </a>
 
 </div>
