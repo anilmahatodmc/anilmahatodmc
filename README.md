@@ -151,13 +151,6 @@ Developing visual compositions with attention to design, consistency, and commun
 
 ## 🛠️ Skills & Tools
 
-### 🎨 Creative
-
-<img src="https://img.shields.io/badge/Video%20Editing-111827?style=for-the-badge&logoColor=white" alt="Video Editing" />
-<img src="https://img.shields.io/badge/Graphic%20Design-111827?style=for-the-badge&logoColor=white" alt="Graphic Design" />
-<img src="https://img.shields.io/badge/Photography-111827?style=for-the-badge&logoColor=white" alt="Photography" />
-<img src="https://img.shields.io/badge/Videography-111827?style=for-the-badge&logoColor=white" alt="Videography" />
-
 ### 💻 Technical
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -167,6 +160,14 @@ Developing visual compositions with attention to design, consistency, and commun
 <img src="https://img.shields.io/badge/Data%20Entry-111827?style=for-the-badge&logoColor=white" alt="Data Entry" />
 <img src="https://img.shields.io/badge/Digital%20Documentation-111827?style=for-the-badge&logoColor=white" alt="Digital Documentation" />
 <img src="https://img.shields.io/badge/Computer%20Operations-111827?style=for-the-badge&logoColor=white" alt="Computer Operations" />
+
+### 🎨 Creative
+
+<img src="https://img.shields.io/badge/Video%20Editing-111827?style=for-the-badge&logoColor=white" alt="Video Editing" />
+<img src="https://img.shields.io/badge/Graphic%20Design-111827?style=for-the-badge&logoColor=white" alt="Graphic Design" />
+<img src="https://img.shields.io/badge/Photography-111827?style=for-the-badge&logoColor=white" alt="Photography" />
+<img src="https://img.shields.io/badge/Videography-111827?style=for-the-badge&logoColor=white" alt="Videography" />
+
 
 ---
 
