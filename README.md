@@ -30,7 +30,6 @@ I combine **creative media production** with growing **computer science and tech
 <img src="https://img.shields.io/badge/🎓%20B.Sc.%20CSIT%20Student-111827?style=flat-square" alt="B.Sc. CSIT student" />
 
 </div>
----
 
 ## 👤 About Me
 
