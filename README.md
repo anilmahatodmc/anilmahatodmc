@@ -11,7 +11,7 @@ I combine **creative media production** with growing **computer science and tech
 <br>
 
 <a href="https://anil-mahato.com.np">
-  <img src="https://img.shields.io/badge/Portfolio-anilmahato.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Anil Mahato" />
+  <img src="https://img.shields.io/badge/Portfolio-anil-mahato.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Anil Mahato" />
 </a>
 <a href="https://github.com/anilmahatodmc">
   <img src="https://img.shields.io/badge/GitHub-Anil Mahato-181717?style=for-the-badge&logo=github&logoColor=white" alt="Anil Mahato" />
