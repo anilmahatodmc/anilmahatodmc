@@ -13,7 +13,7 @@ I combine **creative media production** with growing **computer science and tech
 <a href="https://anil-mahato.com.np">
   <img src="https://img.shields.io/badge/Portfolio-YOUR_PORTFOLIO_URL-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio placeholder" />
 </a>
-<a href="https://github.com/anilmahato06">
+<a href="https://github.com/anilmahatodmc">
   <img src="https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile placeholder" />
 </a>
 <a href="https://www.linkedin.com/in/anilmahato06">
@@ -370,7 +370,7 @@ I'm interested in connecting with **creators, developers, organizations, and tea
 <a href="https://anil-mahato.com.np">
   <img src="https://img.shields.io/badge/🎬%20Portfolio-YOUR_PORTFOLIO_URL-6E56CF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio placeholder" />
 </a>
-<a href="https://github.com/anilmahato06">
+<a href="https://github.com/anilmahatodmc">
   <img src="https://img.shields.io/badge/🐙%20GitHub-YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile placeholder" />
 </a>
 
