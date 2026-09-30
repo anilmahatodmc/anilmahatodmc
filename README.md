@@ -212,9 +212,7 @@ Worked in a computer operations role supporting **digital and office-based workf
 A dedicated space for selected video editing work.
 
 **Link:**  
-` <a href="https://www.tiktok.com/@anilmahatodmc">
-  <img src="https://img.shields.io/badge/Video%20Editing%20Portfolio-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Video Editing Portfolio" />
-</a>`
+<a href="https://www.tiktok.com/@anilmahatodmc">🎬 Video Editing Portfolio</a>
 
 </td>
 <td width="33%" valign="top">
