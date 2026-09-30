@@ -11,16 +11,16 @@ I combine **creative media production** with growing **computer science and tech
 <br>
 
 <a href="https://anil-mahato.com.np">
-  <img src="https://img.shields.io/badge/Portfolio-YOUR_PORTFOLIO_URL-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio placeholder" />
+  <img src="https://img.shields.io/badge/Portfolio-anil-mahato.com.np-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="anilmahato.com.np" />
 </a>
 <a href="https://github.com/anilmahatodmc">
-  <img src="https://img.shields.io/badge/GitHub-anilmahatodmc-181717?style=for-the-badge&logo=github&logoColor=white" alt="Anil Mahato" />
+  <img src="https://img.shields.io/badge/GitHub-Anil Mahato-181717?style=for-the-badge&logo=github&logoColor=white" alt="Anil Mahato" />
 </a>
 <a href="https://www.linkedin.com/in/anilmahato06">
-  <img src="https://img.shields.io/badge/LinkedIn-anilmahatodmc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Anil Mahato" />
+  <img src="https://img.shields.io/badge/LinkedIn-Anil Mahato-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Anil Mahato" />
 </a>
 <a href="mailto:anilmahatodmc@gmail.com">
-  <img src="https://img.shields.io/badge/Email-YOUR_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email placeholder" />
+  <img src="https://img.shields.io/badge/Email-anilmahatodmc@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="anilmahatodmc@gmail.com" />
 </a>
 
 <br><br>
